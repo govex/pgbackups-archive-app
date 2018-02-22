@@ -30,9 +30,6 @@ GEM
       netrc (>= 0.10.0)
       rest-client (>= 1.6.0)
       rubyzip (>= 0.9.9)
-    platform-api (2.1.0)
-      excon (~> 0.45)
-      multi_json (~> 1.8)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
     ipaddress (0.8.3)
@@ -66,6 +63,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  platform-api!
   newrelic_rpm (~> 4.5.0)
   pgbackups-archive (~> 1.0.0)
   rake (~> 12.2.1)
