@@ -30,7 +30,7 @@ GEM
       netrc (>= 0.10.0)
       rest-client (>= 1.6.0)
       rubyzip (>= 0.9.9)
-    heroku-api (0.4.3)
+    platform-api (2.1.0)
       excon (~> 0.45)
       multi_json (~> 1.8)
     http-cookie (1.0.3)
